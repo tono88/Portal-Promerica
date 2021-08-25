@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="4" modulename="label" contextid="30">
+  <label id="3">
+    <name>
+
+Take a closer look at the included features:
+...</name>
+    <intro>&lt;div style="min-height:190px;" class="spotlight spotlight-v4 spotlight-full"&gt;
+
+&lt;h2&gt;Take a closer look at the included features:&lt;/h2&gt;
+
+&lt;div class="row-fluid"&gt;
+
+&lt;div class="span4"&gt;
+&lt;div class="blocknumber_box"&gt;
+&lt;div class="blocknumber_icon"&gt;&lt;i class="fa fa-flag"&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div class="blocknumber_content"&gt;&lt;h5&gt;Font Icons&lt;/h5&gt;&lt;p&gt;Font Awesome gives you 1000 scalable vector icons that can instantly be customized - size, color, drop-shadow and much more.  &lt;a class="readmore" href="http://lambda.redpithemes.com/mod/book/view.php?id=308&amp;amp;chapterid=11"&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="span4"&gt;
+&lt;div class="blocknumber_box"&gt;
+&lt;div class="blocknumber_icon"&gt;&lt;i class="fa fa-image"&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div class="blocknumber_content"&gt;&lt;h5&gt;Frontpage Settings&lt;/h5&gt;&lt;p&gt;Create a slideshow that attracts visitors. Display images and informations for your Moodle site with customizable transition effects. &lt;a class="readmore" href="http://redpithemes.com/Documentation/assets/options_frontpage.html" target="_blank"&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="span4"&gt;
+&lt;div class="blocknumber_box"&gt;
+&lt;div class="blocknumber_icon"&gt;&lt;i class="fa fa-paint-brush"&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div class="blocknumber_content"&gt;&lt;h5&gt;Unlimited Colors&lt;/h5&gt;&lt;p&gt;Theme options that make it easy for you to fully customize the style of your Moodle site: Set the color combination that suits you the best. &lt;a class="readmore" href="http://redpithemes.com/Documentation/assets/options_colors.html" target="_blank"&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class="row-fluid"&gt;
+
+&lt;div class="span4"&gt;
+&lt;div class="blocknumber_box"&gt;
+&lt;div class="blocknumber_icon"&gt;&lt;i class="fa fa-magic"&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div class="blocknumber_content"&gt;&lt;h5&gt;Components &amp;amp; Animations&lt;/h5&gt;&lt;p&gt;Theme Lambda includes various "ready-to-use" elements and components designed with nice and smooth animation effects. &lt;a class="readmore" href="http://lambda.redpithemes.com/mod/book/view.php?id=308&amp;amp;chapterid=9"&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="span4"&gt;
+&lt;div class="blocknumber_box"&gt;
+&lt;div class="blocknumber_icon"&gt;&lt;i class="fa fa-text-height"&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div class="blocknumber_content"&gt;&lt;h5&gt;Typographie Styles&lt;/h5&gt;&lt;p&gt;HTML elements with a neat design combined with various CSS classes will help you to style the online content for your Moodle. &lt;a class="readmore" href="http://lambda.redpithemes.com/mod/page/view.php?id=309"&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="span4"&gt;
+&lt;div class="blocknumber_box"&gt;
+&lt;div class="blocknumber_icon"&gt;&lt;i class="fa fa-id-badge"&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div class="blocknumber_content"&gt;&lt;h5&gt;Social Media&lt;/h5&gt;&lt;p&gt;Theme Lambda makes it easy for you to place social network icons to your Moodle site. Let your users stay connected with you! &lt;a class="readmore" href="http://lambda.redpithemes.com/mod/book/view.php?id=308&amp;amp;chapterid=13"&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1517226597</timemodified>
+  </label>
+</activity>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="3" modulename="label" contextid="29">
+  <label id="2">
+    <name>
+
+
+
+
+Fully Responsive
+Adepting to all screen...</name>
+    <intro>&lt;div class="row-fluid frontpage colored"&gt;
+
+&lt;div class="iconbox span3"&gt;
+&lt;div class="iconcircle"&gt;&lt;i class="fa fa-desktop"&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div class="iconbox-content"&gt;
+&lt;h4&gt;Fully Responsive&lt;/h4&gt;
+&lt;p&gt;Adepting to all screens: Your users can access the contents of your Moodle site from mobile phones to desktop computers.&lt;/p&gt;
+&lt;a href="http://lambda.redpithemes.com/mod/book/view.php?id=308" class="btn btn-primary"&gt;Read More&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="iconbox span3"&gt;
+&lt;div class="iconcircle"&gt;&lt;i class="fa fa-map-signs"&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div class="iconbox-content"&gt;
+&lt;h4&gt;Multilanguage Support&lt;/h4&gt;
+&lt;p&gt;Theme Lambda povides a full and native support for multilingual websites in LTR and RTL languages. &lt;/p&gt;
+&lt;a href="http://lambda.redpithemes.com/mod/book/view.php?id=308&amp;amp;chapterid=12" class="btn btn-primary"&gt;Read More&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="iconbox span3"&gt;
+&lt;div class="iconcircle"&gt;&lt;i class="fa fa-cogs"&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div class="iconbox-content"&gt;
+&lt;h4&gt;Fully Customizable&lt;/h4&gt;
+&lt;p&gt;Layouts, plugins, backgrounds and unlimited color options are all easy to set up in the theme's settings panel.&lt;/p&gt;
+&lt;a href="http://lambda.redpithemes.com/mod/book/view.php?id=308&amp;amp;chapterid=10" class="btn btn-primary"&gt;Read More&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="iconbox span3"&gt;
+&lt;div class="iconcircle"&gt;&lt;i class="fas fa-file-alt  fa  fa-file-text-o"&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div class="iconbox-content"&gt;
+&lt;h4&gt;Full Documentation&lt;/h4&gt;
+&lt;p&gt;Detailed descriptions of all theme options and examples for the included components will ease up your work.&lt;/p&gt;
+&lt;a href="http://redpithemes.com/Documentation/assets/index.html" class="btn btn-primary" target="_blank"&gt;Read More&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1517226568</timemodified>
+  </label>
+</activity>

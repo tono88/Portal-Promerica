@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="2" modulename="label" contextid="28">
+  <label id="1">
+    <name>
+
+Welcome to
+Theme Lambda for Moodle
+
+The per...</name>
+    <intro>&lt;div class="row-fluid frontpage"&gt;
+&lt;div class="span8"&gt;
+&lt;h1&gt;Welcome to&lt;/h1&gt;
+&lt;h1 class="main-heading"&gt;Theme Lambda for Moodle&lt;/h1&gt;
+&lt;div class="divider line-01"&gt;&lt;/div&gt;
+&lt;h4&gt;The perfect choice for your Moodle site&lt;/h4&gt;
+&lt;p class="plus"&gt;With Theme Lambda for Moodle you can easily create a modern and eye-catching website for your learning environment. It offers various options and comes bundled with lots of easy to use features including tabs, slideshows, accordions, promotion boxes and scalable vector icons.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="span4"&gt;
+&lt;div class="responsive-video"&gt;
+&lt;iframe allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" src="https://player.vimeo.com/video/117526873?title=0&amp;amp;byline=0&amp;amp;portrait=0" width="640" height="360" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1517226550</timemodified>
+  </label>
+</activity>

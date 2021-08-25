@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="5" moduleid="6" modulename="label" contextid="32">
+  <label id="5">
+    <name>
+Feeling convinced? Don't wait any longer...
+Sam...</name>
+    <intro>&lt;div class="spotlight spotlight-v2 spotlight-full" style="text-align:center;padding-top: 25px;padding-bottom: 25px;"&gt;
+&lt;h4 style="display: inline-block;vertical-align: middle;"&gt;Feeling convinced? &lt;small&gt;Don't wait any longer...&lt;/small&gt;&lt;/h4&gt;
+&lt;span style="text-transform: uppercase;font-weight: 600;display: inline-block;margin-left: 30px;"&gt;&lt;a class="btn btn-primary" href="#" style="padding: 12px 18px;line-height: 1.5rem;"&gt;Sample Button&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1517226648</timemodified>
+  </label>
+</activity>

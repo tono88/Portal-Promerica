@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="1" contextid="5">
+  <shortname>Theme Lambda Demo Contents</shortname>
+  <fullname>Theme Lambda Demo Contents</fullname>
+  <idnumber></idnumber>
+  <summary>Moodle 2.9 Test&lt;br&gt;</summary>
+  <summaryformat>0</summaryformat>
+  <format>site</format>
+  <showgrades>1</showgrades>
+  <newsitems>3</newsitems>
+  <startdate>0</startdate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme></theme>
+  <timecreated>1517141355</timecreated>
+  <timemodified>1517230235</timemodified>
+  <requested>0</requested>
+  <enablecompletion>0</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>1</numsections>
+  <category id="">
+  </category>
+  <tags>
+  </tags>
+</course>

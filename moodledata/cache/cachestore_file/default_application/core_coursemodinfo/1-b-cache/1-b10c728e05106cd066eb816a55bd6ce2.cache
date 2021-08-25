@@ -1,0 +1,162 @@
+O:8:"stdClass":9:{s:7:"modinfo";a:7:{i:20;O:8:"stdClass":12:{s:2:"id";s:2:"16";s:2:"cm";s:2:"20";s:3:"mod";s:4:"page";s:7:"section";s:1:"0";s:9:"sectionid";s:2:"12";s:6:"module";s:2:"15";s:5:"added";s:10:"1517226511";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:12:"availability";s:70:"{"op":"&","c":[{"type":"date","d":"<","t":1501912800}],"showc":[true]}";s:4:"name";s:10:"Typography";}i:21;O:8:"stdClass":12:{s:2:"id";s:1:"1";s:2:"cm";s:2:"21";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"11";s:6:"module";s:2:"12";s:5:"added";s:10:"1517226550";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:53:"
+    
+        Bienvenido a
+        Universidad ...";s:7:"content";s:1377:"<div class="no-overflow"><div class="row-fluid frontpage">
+    <div class="span8">
+        <h1>Bienvenido a</h1>
+        <h1 class="main-heading">Universidad Promerica</h1>
+        <div class="divider line-01"></div>
+        <h4>Mi Sueño, Mi Empresa</h4>
+        <h4>Manual de Educación Financiera</h4>
+        <h4></h4><p>Universidad Promerica es parte del programa “Mi Sueño, Mi Empresa” y tiene como objetivo brindar una herramienta que pretende informar y educar financieramente a pequeñas y medianas empresas guatemaltecas. Esto con el fin de que utilicen los productos financieros adecuados&nbsp;a&nbsp;sus necesidades y a la vez, que ordenen su tesorería siendo financieramente responsables.<u></u><u></u></p><p>Este sitio pone a su disposición cursos y webinars en temas de finanzas responsables, emprendimiento, principales problemas que cometen las Pymes y sus soluciones financieras, así como información sobre la metodología que Banco Promerica realiza para la&nbsp;adquisición&nbsp;de un crédito, incluyendo la documentación que los solicitantes del crédito&nbsp;deben de prestar especial atención para facilitar la aprobación del mismo.</p><p class="plus"><span style="font-size: 1.05em;"></span></p>
+    </div>
+    <div class="span4">
+        <div class="responsive-video">
+            <br>
+        </div>
+    </div>
+</div></div>";}i:22;O:8:"stdClass":12:{s:2:"id";s:1:"2";s:2:"cm";s:2:"22";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"11";s:6:"module";s:2:"12";s:5:"added";s:10:"1517226568";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:53:"
+
+    
+      
+      
+        
+        
+    ...";s:7:"content";s:1420:"<div class="no-overflow"><div class="row-fluid frontpage colored">
+
+    <div class="iconbox span3">
+      
+      
+        <div class="iconcircle"><i class="far fa-clock"></i></div>
+        <div class="iconbox-content">
+            <h4>Accesible Siempre</h4>
+            <p>Información completa sobre finanzas, productos y base de conocimientos que te ayudarán a mejorar tu vida financiera</p>
+            <br></div>
+    </div>
+
+    <div class="iconbox span3">
+        <div class="iconcircle"><i class="fas fa-graduation-cap"></i></div>
+        <div class="iconbox-content">
+            <h4>Cursos Fáciles</h4>
+            <p>Te guiamos paso a paso con cursos creados específicamente para tí</p>
+            <br></div>
+    </div>
+
+    <div class="iconbox span3">
+        <div class="iconcircle"><i class="fa fa-cogs"></i></div>
+        <div class="iconbox-content">
+            <h4>Adaptable, a tu ritmo</h4>
+            <p>Puedes seguir los cursos con tu propio ritmo, en tu propio horario.&nbsp;</p>
+            <br></div>
+    </div>
+
+    <div class="iconbox span3">
+        <div class="iconcircle"><i class="far fa-folder"></i></div>
+        <div class="iconbox-content">
+            <h4>Documentación Completa</h4>
+            <p>Te ofrecemos formularios, documentos y todo tipo de archivos indispensables para tus finanzas</p>
+            <br></div>
+    </div>
+
+</div></div>";}i:23;O:8:"stdClass":12:{s:2:"id";s:1:"3";s:2:"cm";s:2:"23";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"11";s:6:"module";s:2:"12";s:5:"added";s:10:"1517226597";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:53:"
+
+    Productos Financieros
+
+    
+
+        ...";s:7:"content";s:3911:"<div class="no-overflow"><div style="min-height:190px;" class="spotlight spotlight-v4 spotlight-full">
+
+    <h2>Productos Financieros</h2>
+
+    <div class="row-fluid">
+
+        <div class="span4">
+            <div class="blocknumber_box">
+                <div class="blocknumber_icon"><i class="fas fa-piggy-bank"></i></div>
+                <div class="blocknumber_content">
+                    <h5>Productos financieros de ahorro</h5>
+                    <p style="text-align: center;">Se recibe una tasa de interés a favor, a cambio de mantener dinero en el banco. Son productos de ahorro a corto o largo plazo. Ejemplos: cuentas de ahorro, depósitos a plazo fijo.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="span4">
+            <div class="blocknumber_box">
+                <div class="blocknumber_icon"><i class="fas fa-money-bill-wave"></i></div>
+                <div class="blocknumber_content">
+                    <h5>Productos Financieros de Financiamiento</h5>
+                    <p style="text-align: center;">Aporta dinero “extra” para capital de trabajo 1 o para inversión 2 . A diferencia de los otros dos productos financieros, este no tiene la tasa de interés a favor. Ejemplo: Préstamos.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="span4">
+            <div class="blocknumber_box">
+                <div class="blocknumber_icon"><i class="fas fa-donate"></i></div>
+                <div class="blocknumber_content">
+                    <h5>Créditos a largo plazo (Créditos Decrecientes)</h5>
+                    <p style="text-align: center;">Generalmente se utilizan para adquirir bienes de alto valor, financiamiento a largo plazo o para iniciar nuevas inversiones.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="row-fluid">
+
+        <div class="span4">
+            <div class="blocknumber_box">
+                <div class="blocknumber_icon"><i class="fas fa-hand-holding-usd"></i></div>
+                <div class="blocknumber_content">
+                    <h5>Créditos a corto plazo</h5>
+                    <p style="text-align: center;">Generalmente se utiliza para cubrir necesidades en momentos puntuales (capital de trabajo, pago a proveedores, pago de nóminas, reparaciones, entre otros).</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="span4">
+            <div class="blocknumber_box">
+                <div class="blocknumber_icon"><i class="fas fa-file-invoice"></i></div>
+                <div class="blocknumber_content">
+                    <h5>E-Factoring</h5>
+                    <p style="text-align: center;">Pago de facturas de sus proveedores locales. Es decir, mediante un contrato, la empresa extiende sus facturas (a favor) al banco y el banco procede a pagarle de acuerdo al plazo establecido (30, 60, 90, 120 días), cobrando una comisión
+                        al proveedor si el proveedor cobra antes del tiempo establecido. Luego, el banco es el encargado de cobrar el monto a la empresa de acuerdo a las facturas cobradas por los proveedores.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="span4">
+            <div class="blocknumber_box">
+                <div class="blocknumber_icon"><i class="far fa-credit-card"></i></div>
+                <div class="blocknumber_content">
+                    <h5>Tarjetas de Crédito</h5>
+                    <p style="text-align: center;">No son para inversiones a largo plazo. Generalmente se utilizan para gastos personales o de consumo. No es un producto de financiamiento. Las tarjetas de crédito son un medio de pago con crédito, en un período determinado.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div></div>";}i:24;O:8:"stdClass":12:{s:2:"id";s:1:"4";s:2:"cm";s:2:"24";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"11";s:6:"module";s:2:"12";s:5:"added";s:10:"1517226622";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:53:"
+    
+        
+    
+    
+        Finanzas Res...";s:7:"content";s:1638:"<div class="no-overflow"><div class="row-fluid frontpage">
+    <div class="span6">
+        <img class="img-responsive" alt="lambda responsive" src="http://promerica.tecnodyne.com/pluginfile.php/28/course/overviewfiles/helloquence-5fNmWej4tAA-unsplash.jpg">
+    </div>
+    <div class="span6">
+        <h1>Finanzas Responsables - La clave de tu negocio</h1>
+        <div class="divider line-01"></div>
+        <h4>Todas las posibilidades de productos financieros de acuerdo a tus necesidades</h4>
+        <p class="plus" style="text-align:justify"> Uno de los más grandes retos para las Pequeñas y Medianas empresas es el de conseguir un crédito en una institución bancaria, debido a que, algunas veces, las PYMES no tienen mucho conocimiento respecto al correcto manejo de sus finanzas, contabilidad,
+            formularios y requisitos bancarios. Esto los hace ser un riesgo para los bancos debido a que no hay información clara o una visión de la empresa en un futuro y, por ende, no se les aprueba el crédito solicitado. Esta es una importante razón
+            por la cual las PYMES no logran crecer y se quedan estancadas o inclusive llegan a tener que cerrar operaciones. Es por ello que, Banco Promerica creó el manual donde se guía y se brindan recomendaciones para la adquisición de un crédito dentro
+            del banco, con el fin de apoyar el crecimiento de las PYMES en Guatemala. Adicionalmente, en este apartado se enumeran los aspectos y documentos en que los solicitantes deben de prestar especial atención para así facilitar la aprobación del
+            mismo.</p>
+    </div>
+</div></div>";}i:25;O:8:"stdClass":12:{s:2:"id";s:1:"5";s:2:"cm";s:2:"25";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"11";s:6:"module";s:2:"12";s:5:"added";s:10:"1517226648";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:54:"
+    ¿Dudas Adicionales? Puedes consultar en nues...";s:7:"content";s:530:"<div class="no-overflow"><div class="spotlight spotlight-v2 spotlight-full" style="text-align:center;padding-top: 25px;padding-bottom: 25px;">
+    <h4 style="display: inline-block;vertical-align: middle;">¿Dudas Adicionales? <span style="font-size: 17.1px;">Puedes consultar en nuestro call center</span></h4>&nbsp;<span style="text-transform: uppercase;font-weight: 600;display: inline-block;margin-left: 30px;"><a class="btn btn-primary" href="#" style="padding: 12px 18px;line-height: 1.5rem;"> 1724 </a></span>
+</div></div>";}i:54;O:8:"stdClass":11:{s:2:"id";s:2:"41";s:2:"cm";s:2:"54";s:3:"mod";s:4:"page";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"11";s:6:"module";s:2:"15";s:5:"added";s:10:"1622181800";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:8:"Webinars";}}s:12:"sectioncache";a:2:{i:0;O:8:"stdClass":3:{s:2:"id";s:2:"12";s:4:"name";N;s:12:"availability";N;}i:1;O:8:"stdClass":4:{s:2:"id";s:2:"11";s:4:"name";s:0:"";s:7:"summary";s:11:"<p><br></p>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";}}s:9:"shortname";s:9:"Promerica";s:8:"fullname";s:21:"Universidad Promerica";s:6:"format";s:4:"site";s:16:"enablecompletion";s:1:"0";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1628202298";}
